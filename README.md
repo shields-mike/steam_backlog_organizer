@@ -1,6 +1,6 @@
 # Steam Backlog Organizer
 
-This is for people who, like me, have a massive list of games that keeps on growing due to monthly subscriptions like Humble Bundle and Steam sales.
+This is for people who have a massive list of games that keeps on growing due to monthly subscriptions like Humble Bundle and Steam sales.
 The program will download a list of all your Steam games and save them onto a CSV file. The CSV file can then be opened on Excel or Google sheets where you can start
 sorting, marking games you want to play, marking games you finished, etc.
 
