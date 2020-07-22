@@ -41,7 +41,8 @@ of the `class Steam`.
 
 ![Alt text](https://github.com/shields-mike/steam_backlog_organizer/blob/master/Images/steam_user_url.jpg)
 
-Change the link for `user_url` to the link to your steam profile/games. **_Make sure that the link points to the games section of your profile, otherwise this will not work!_**
+Change the link for `user_url` to the link to your steam profile/games. **_Make sure that the link points to the games section of your profile, otherwise this will not work!
+Also make sure that "My Profile" and "Game Details" are both set to public in your steam privacy settings!_**
 
 ![Alt text](https://github.com/shields-mike/steam_backlog_organizer/blob/master/Images/steam_profile.jpg)
 
