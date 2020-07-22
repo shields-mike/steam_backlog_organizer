@@ -110,9 +110,10 @@ class Games:
 
         # Checks if all reviews exists on the page
         if all_time is not None:
-            self.game_dict["All Reviews"] = " ".join(
-                all_time.find_next("div", class_="summary column").text.split()
-            )
+            all_time = all_time.find_next("div", class_="summary column")
+
+            if all_time is not None:
+                self.game_dict["All Reviews"] = " ".join(all_time.text.split())
 
     def tags(self):
         """Grabs the game tags."""
