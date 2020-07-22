@@ -21,6 +21,7 @@ sorting, marking games you want to play, marking games you finished, etc.
 - [Usage](#usage)
 - [Opening CSV File](#opening-the-csv-file)
 - [License](#license)
+- [FAQ](#faq)
 
 ---
 
@@ -73,6 +74,16 @@ I won't go into detail on how you can do this as it's pretty self-explanatory an
 would be what I did to my file where I added a new column to represent various things: checkmark for completion, clock for in progress, a handshake for co-op, etc. I also
 changed the font and spaced the columns out for easier readability.
 
+---
+
+## FAQ
+
+- ***"Insert Game here"* isn't on the file!**
+  - First check if the game store page exists. Some games got a definitive edition update and so the store page for the original game got deleted. If the store page does exist, then feel free to open up an issue.
+  
+- **There's blank spaces on the csv file**
+  - This is related to the first issue where the game is still in your library but it doesn't have a store page, so the script just writes out empty strings into the rows. Here is a video explaining how to get rid of these rows: https://www.youtube.com/watch?v=hITnddIYtRI
+  
 ---
 
 ## License
