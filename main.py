@@ -150,9 +150,7 @@ class Games:
 
 def main():
     write_header_count = 0
-    print(
-        "Initializing webdriver... This may take a while depending on your internet connection"
-    )
+    print("Initializing webdriver...")
 
     # Make the webdriver run in headless mode
     options = Options()
