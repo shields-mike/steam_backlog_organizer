@@ -193,6 +193,7 @@ def main():
         # Wait two seconds so the server doesn't get bombarded with requests
         time.sleep(2)
 
+    print("Process complete")
     # Exit the firefox webdriver
     driver.quit()
 
