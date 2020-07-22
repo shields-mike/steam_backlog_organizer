@@ -19,7 +19,7 @@ sorting, marking games you want to play, marking games you finished, etc.
 - [Requirements](#installation)
 - [Setup](#setup)
 - [Usage](#usage)
-- [Opening CSV File](#openingCSVfile)
+- [Opening CSV File](#opening-the-csv-file)
 - [License](#license)
 
 ---
